@@ -25,4 +25,4 @@ This project defines a relational database schema for a sample E-commerce applic
 3. View `ecommerce_ERD.png` for schema visualization
 
 ## ER Diagram
-![ER Diagram](ecommerce_ERD.png)
+saved as ER Diagram.png
