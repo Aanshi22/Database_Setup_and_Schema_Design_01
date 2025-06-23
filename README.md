@@ -19,10 +19,10 @@ This project defines a relational database schema for a sample E-commerce applic
 
 This project defines a relational database schema for a sample E-commerce application using MySQL.
 
-## 🛠️ How to Use
+## How to Use
 1. Open MySQL Workbench
 2. Import `ecommerce_schema.sql`
 3. View `ecommerce_ERD.png` for schema visualization
 
-## 📷 ER Diagram
+## ER Diagram
 ![ER Diagram](ecommerce_ERD.png)
